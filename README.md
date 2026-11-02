@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0058-length-of-last-word](https://github.com/sakshikande4/leetcode-submitions/tree/master/0058-length-of-last-word) |
 | [0067-add-binary](https://github.com/sakshikande4/leetcode-submitions/tree/master/0067-add-binary) |
+| [0071-simplify-path](https://github.com/sakshikande4/leetcode-submitions/tree/master/0071-simplify-path) |
 ## Array
 |  |
 | ------- |
@@ -32,4 +33,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/sakshikande4/leetcode-submitions/tree/master/0070-climbing-stairs) |
+## Stack
+|  |
+| ------- |
+| [0071-simplify-path](https://github.com/sakshikande4/leetcode-submitions/tree/master/0071-simplify-path) |
 <!---LeetCode Topics End-->
