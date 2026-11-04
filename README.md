@@ -37,4 +37,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0071-simplify-path](https://github.com/sakshikande4/leetcode-submitions/tree/master/0071-simplify-path) |
+## Linked List
+|  |
+| ------- |
+| [0083-remove-duplicates-from-sorted-list](https://github.com/sakshikande4/leetcode-submitions/tree/master/0083-remove-duplicates-from-sorted-list) |
 <!---LeetCode Topics End-->
