@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0058-length-of-last-word](https://github.com/sakshikande4/leetcode-submitions/tree/master/0058-length-of-last-word) |
 | [0067-add-binary](https://github.com/sakshikande4/leetcode-submitions/tree/master/0067-add-binary) |
 | [0071-simplify-path](https://github.com/sakshikande4/leetcode-submitions/tree/master/0071-simplify-path) |
+| [0093-restore-ip-addresses](https://github.com/sakshikande4/leetcode-submitions/tree/master/0093-restore-ip-addresses) |
 ## Array
 |  |
 | ------- |
@@ -57,4 +58,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/sakshikande4/leetcode-submitions/tree/master/0100-same-tree) |
+## Backtracking
+|  |
+| ------- |
+| [0093-restore-ip-addresses](https://github.com/sakshikande4/leetcode-submitions/tree/master/0093-restore-ip-addresses) |
 <!---LeetCode Topics End-->
