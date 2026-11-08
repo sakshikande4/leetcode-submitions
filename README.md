@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0066-plus-one](https://github.com/sakshikande4/leetcode-submitions/tree/master/0066-plus-one) |
+| [0119-pascals-triangle-ii](https://github.com/sakshikande4/leetcode-submitions/tree/master/0119-pascals-triangle-ii) |
 ## Math
 |  |
 | ------- |
@@ -30,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/sakshikande4/leetcode-submitions/tree/master/0070-climbing-stairs) |
+| [0119-pascals-triangle-ii](https://github.com/sakshikande4/leetcode-submitions/tree/master/0119-pascals-triangle-ii) |
 ## Memoization
 |  |
 | ------- |
