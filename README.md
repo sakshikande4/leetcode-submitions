@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/sakshikande4/leetcode-submitions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0058-length-of-last-word](https://github.com/sakshikande4/leetcode-submitions/tree/master/0058-length-of-last-word) |
 | [0067-add-binary](https://github.com/sakshikande4/leetcode-submitions/tree/master/0067-add-binary) |
 | [0071-simplify-path](https://github.com/sakshikande4/leetcode-submitions/tree/master/0071-simplify-path) |
@@ -68,4 +69,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0093-restore-ip-addresses](https://github.com/sakshikande4/leetcode-submitions/tree/master/0093-restore-ip-addresses) |
+## Hash Table
+|  |
+| ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/sakshikande4/leetcode-submitions/tree/master/0003-longest-substring-without-repeating-characters) |
+## Sliding Window
+|  |
+| ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/sakshikande4/leetcode-submitions/tree/master/0003-longest-substring-without-repeating-characters) |
 <!---LeetCode Topics End-->
