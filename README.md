@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0015-3sum](https://github.com/sakshikande4/leetcode-submitions/tree/master/0015-3sum) |
+| [0031-next-permutation](https://github.com/sakshikande4/leetcode-submitions/tree/master/0031-next-permutation) |
 | [0066-plus-one](https://github.com/sakshikande4/leetcode-submitions/tree/master/0066-plus-one) |
 | [0119-pascals-triangle-ii](https://github.com/sakshikande4/leetcode-submitions/tree/master/0119-pascals-triangle-ii) |
 ## Math
@@ -82,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0015-3sum](https://github.com/sakshikande4/leetcode-submitions/tree/master/0015-3sum) |
+| [0031-next-permutation](https://github.com/sakshikande4/leetcode-submitions/tree/master/0031-next-permutation) |
 ## Sorting
 |  |
 | ------- |
