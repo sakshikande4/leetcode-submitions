@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0015-3sum](https://github.com/sakshikande4/leetcode-submitions/tree/master/0015-3sum) |
 | [0031-next-permutation](https://github.com/sakshikande4/leetcode-submitions/tree/master/0031-next-permutation) |
+| [0036-valid-sudoku](https://github.com/sakshikande4/leetcode-submitions/tree/master/0036-valid-sudoku) |
 | [0066-plus-one](https://github.com/sakshikande4/leetcode-submitions/tree/master/0066-plus-one) |
 | [0119-pascals-triangle-ii](https://github.com/sakshikande4/leetcode-submitions/tree/master/0119-pascals-triangle-ii) |
 ## Math
@@ -83,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/sakshikande4/leetcode-submitions/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0036-valid-sudoku](https://github.com/sakshikande4/leetcode-submitions/tree/master/0036-valid-sudoku) |
 ## Sliding Window
 |  |
 | ------- |
@@ -96,4 +98,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0015-3sum](https://github.com/sakshikande4/leetcode-submitions/tree/master/0015-3sum) |
+## Matrix
+|  |
+| ------- |
+| [0036-valid-sudoku](https://github.com/sakshikande4/leetcode-submitions/tree/master/0036-valid-sudoku) |
 <!---LeetCode Topics End-->
